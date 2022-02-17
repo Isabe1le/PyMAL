@@ -1,1 +1,1 @@
-../../ui/dist/assets/vendor.js
+../ui/dist/assets/vendor.js
